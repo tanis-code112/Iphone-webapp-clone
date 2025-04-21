@@ -46,19 +46,3 @@ An interactive iPhone-like home screen built with React, styled to replicate the
 
 ![Screenshot 5](public/screenshots/screenshot5.png)
 
-> 📁 Place these images inside your `public/screenshots/` folder and rename them:
-> - `screenshot1.png`
-> - `screenshot2.png`
-> - `screenshot3.png`
-> - `screenshot4.png`
-> - `screenshot5.png`
-
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/iphone-webapp-clone.git
-cd iphone-webapp-clone
