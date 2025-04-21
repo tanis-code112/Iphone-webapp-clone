@@ -1,5 +1,3 @@
-# Iphone-webapp-clone
-IPhone-webapp
 # 📱 iPhone WebApp Clone
 
 An interactive iPhone-like home screen built with React, styled to replicate the iOS experience. Includes a dynamic app grid, dock, status bar, and blurred background — all rendered with attention to detail and smooth UI transitions.
@@ -28,8 +26,32 @@ An interactive iPhone-like home screen built with React, styled to replicate the
 
 ## 📸 Screenshots
 
-> Add screenshots here  
-> (Example: `public/screenshot1.png`, `public/screenshot2.png`)
+### 🧊 Lock Screen Style
+
+![Screenshot 1](public/screenshots/screenshot1.png)
+
+### 📱 Home Screen Icons
+
+![Screenshot 2](public/screenshots/screenshot2.png)
+
+### 🎛️ Bottom Dock
+
+![Screenshot 3](public/screenshots/screenshot3.png)
+
+### ☁️ Blurred Background & Layout
+
+![Screenshot 4](public/screenshots/screenshot4.png)
+
+### 🧠 App Opening / Detail Page
+
+![Screenshot 5](public/screenshots/screenshot5.png)
+
+> 📁 Place these images inside your `public/screenshots/` folder and rename them:
+> - `screenshot1.png`
+> - `screenshot2.png`
+> - `screenshot3.png`
+> - `screenshot4.png`
+> - `screenshot5.png`
 
 ---
 
