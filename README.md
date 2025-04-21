@@ -28,7 +28,7 @@ An interactive iPhone-like home screen built with React, styled to replicate the
 
 ### 🧊 Lock Screen Style
 
-![Screenshot 1](public/screenshots/screenshot1.png)
+![Alt Text](/screenshots/screenshot1.png)
 
 ### 📱 Home Screen Icons
 
